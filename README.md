@@ -6,3 +6,4 @@ In this registration system we are going to add the details of the user in the M
 3.Create tables.
 4.Specify the names in the php file like 'localhost','username','password','databasename'.
 5.Query according to it.
+It has sql database used at backend
